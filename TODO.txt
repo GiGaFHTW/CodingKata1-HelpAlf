@@ -1,4 +1,4 @@
 //TODO
 //1. Empty Array Map -> "Spaceship lost forever" -> passed
 //2. 10x6 Array Map with no X -> "Spaceship lost forever" -> passed
-//3. 10x6 Array Map with X at known location -> Return x/y -> failed
+//3. 10x6 Array Map with X at known location -> Return x/y -> passed

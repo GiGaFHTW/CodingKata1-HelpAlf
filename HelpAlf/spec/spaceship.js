@@ -1,11 +1,12 @@
-describe('Spaceship', function() {
+describe('findSpaceship', function() {
 	beforeEach(function() {
 		spaceship = new Spaceship();
+
+		emptyMap = '';
 	});
 
-	it('', function() {
-
-		expect().toEqual();
+	it('empty map', function() {
+		expect(spaceship.find(emptyMap)).toEqual('Spaceship lost forever.');
 	});
 
 });

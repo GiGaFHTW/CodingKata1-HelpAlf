@@ -1,4 +1,4 @@
-[ 1, 2, 3, 4, 5 ] -> 6 passed
-[ 2, 2, 3, 3 ] -> 4 passed
-[ 6, 6, 4, 4, 1, 3 ] -> 2 passed
-[ 3, 5, 3, 5, 4, 2 ] -> 12 passed
+//TODO
+//1. Empty Array Map -> "Spaceship lost forever"
+//2. 10x6 Array Map with no X -> "Spaceship lost forever"
+//3. 10x6 Array Map with X at known location -> Return x/y
